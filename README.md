@@ -6,10 +6,12 @@ Welcome to my personal GitHub repository! I'm a robotics enthusiast with a stron
 - **Robot Operating System (ROS)**: Building and managing robot software.
 - **Control Systems**: Implementing dynamic control for robots and automation systems.
 - **Computer Vision**: Enabling robots to see and understand their environment.
+- **CAD Designing**: Designing complex parts for robot geometry.
+- **Deep Learning**
 
 ## 📁 **Projects Overview**
 Here's a glimpse of my ongoing and completed projects:
-1. **Live Coordinate Gesture Shooter** - Utilizes camera input to detect finger gestures, enabling precise targeting and shooting based on user direction.
+1. **Live Coordinate Gesture Shooter (LCGS)** - Utilizes camera input to detect finger gestures, enabling precise targeting and shooting based on user direction.
 2. **Agricultural theme manual and autonomous Bot (ROBOCON 2024)** - Team Robocon, IIT BHU: Developed autonomous and manual bots for agricultural tasks using ROS, computer vision, and custom control strategies, integrating 2D LIDAR, IMU, and YOLO for object detection and navigation.
 3. **Path planning and Execution for a PX4 Iris drone** - Inter IIT Prepathon: Simulated and controlled an Iris PX4 drone using ROS 2 and MAVROS for real-time obstacle avoidance and autonomous field surveys, with integrated YOLO-based weed detection and image segmentation.
 
